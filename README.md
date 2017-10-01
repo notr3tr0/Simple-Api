@@ -1,1 +1,1 @@
-web-server
+The web server is on the flask, which accepts requests and writes the pulse and geo-position values to the database, after sending them to the user in the telegram, if the pulse values are critical
